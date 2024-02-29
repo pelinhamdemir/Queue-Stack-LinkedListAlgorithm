@@ -1,0 +1,1 @@
+Main class is getting the matrix file into the methods which are implemented in the Matrix class.As a result of this runnning the main methods prints out the result. The implementation of Linked List class, Linked List methods such as add(),remove(),get(), isEmpty() and more are used. Therefore,the Node class is implemented for the Linked List class implementation.
